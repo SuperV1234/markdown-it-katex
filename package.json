@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:waylonflinn/markdown-it-katex.git"
+    "url": "git+ssh://git@github.com:SuperV1234/markdown-it-katex.git"
   },
   "keywords": [
     "markdown",
@@ -22,7 +22,7 @@
   "author": "waylonflinn@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "katex": "^0.9.0-alpha1",
+    "katex": "^0.9.0-alpha1"
   },
   "devDependencies": {
     "markdown-it": "^8.4.0",
